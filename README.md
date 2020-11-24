@@ -1,4 +1,4 @@
-# COVID-19-Visualization
+# COVID-19-Analysis
 
 This repository contains EDA, visualizations and statistical analysis of COVID-19 data.
 
